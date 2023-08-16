@@ -7,3 +7,5 @@ function Home() {
 };
 
 export default Home
+
+//index.js file renders at folder root
